@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/vladyslavlysak.github.io/static/css/main.f02fa6b5.chunk.css",
+    "main.js": "/vladyslavlysak.github.io/static/js/main.f499b102.chunk.js",
+    "main.js.map": "/vladyslavlysak.github.io/static/js/main.f499b102.chunk.js.map",
+    "runtime-main.js": "/vladyslavlysak.github.io/static/js/runtime-main.f3c823c2.js",
+    "runtime-main.js.map": "/vladyslavlysak.github.io/static/js/runtime-main.f3c823c2.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/vladyslavlysak.github.io/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e0e22a47.chunk.js": "/vladyslavlysak.github.io/static/js/2.e0e22a47.chunk.js",
+    "static/js/2.e0e22a47.chunk.js.map": "/vladyslavlysak.github.io/static/js/2.e0e22a47.chunk.js.map",
+    "index.html": "/vladyslavlysak.github.io/index.html",
+    "precache-manifest.2bfb49e18d0e9152e415d9965ff14780.js": "/vladyslavlysak.github.io/precache-manifest.2bfb49e18d0e9152e415d9965ff14780.js",
+    "service-worker.js": "/vladyslavlysak.github.io/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/vladyslavlysak.github.io/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.f02fa6b5.chunk.css.map": "/vladyslavlysak.github.io/static/css/main.f02fa6b5.chunk.css.map",
+    "static/js/2.e0e22a47.chunk.js.LICENSE.txt": "/vladyslavlysak.github.io/static/js/2.e0e22a47.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/vladyslavlysak.github.io/static/media/back.51a6dbdc.jpg",
+    "static/media/black.png": "/vladyslavlysak.github.io/static/media/black.26da84a1.png",
+    "static/media/meCV.jpg": "/vladyslavlysak.github.io/static/media/meCV.cbeb4afc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3c823c2.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e0e22a47.chunk.js",
+    "static/css/main.f02fa6b5.chunk.css",
+    "static/js/main.f499b102.chunk.js"
+  ]
+}
